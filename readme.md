@@ -38,7 +38,7 @@ Merci de remplir ce formulaire pour participer à l'enquête :
 
 Ce site est hébergé avec **GitHub Pages** :
 
-- 🔗 URL : `https://petitmillefa.github.io/mon-site/`
+- 🔗 URL : `https://petitmillefa.github.io/raynal_fibre`
 - 📁 Source : branche `main`, dossier racine
 
 ---
