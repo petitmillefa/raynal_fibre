@@ -1,4 +1,4 @@
-# 🌐 Site Enquêt Raynal Fibre
+# 🌐 Site Enquête Raynal Fibre
 
 Bienvenue sur ce site personnel hébergé via **GitHub Pages**. Juste pour proposer un formulaire enquête sur la fibre.
 
@@ -20,7 +20,7 @@ Totalement anonyme, je vous propose de laisser un contact mail pour être tenu i
 
 ![Illustration du projet](20250526-carte-arcep.png)
 
-[Site de l'arcep]( https://cartefibre.arcep.fr/)
+[Site de l'arcep](https://cartefibre.arcep.fr/)
 
 ---
 
@@ -40,7 +40,3 @@ Ce site est hébergé avec **GitHub Pages** :
 
 - 🔗 URL : `https://petitmillefa.github.io/raynal_fibre`
 - 📁 Source : branche `main`, dossier racine
-
----
-
-##
